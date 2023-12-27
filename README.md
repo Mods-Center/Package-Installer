@@ -16,4 +16,4 @@ A nice package installer with a new user interface.
 
 ### Credits: 
 - SparkOS for A13 source package
-- [@JELLYBEANx1](https://t.me/JELLYBEANx1) (Flat Earth guy) for banner 
+- [ᴊᴇʟʟʏʙᴇᴀɴ](https://t.me/JELLYBEANx1) (Flat Earth guy) for banner 
