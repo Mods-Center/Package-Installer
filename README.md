@@ -1,19 +1,24 @@
 # Package-Installer
-![MIUIXD](https://github.com/Mods-Center/Package-Installer/assets/83476983/9e068605-d6d0-4ea4-ac6d-9a1269805249)
+![1000091349](https://github.com/user-attachments/assets/8c5a202c-88db-46c2-84b2-6ac6c5d13909)
+
 A nice package installer with a new user interface.
 
 ### Download
 - Download from the [releases page](https://github.com/Mods-Center/Package-Installer/releases)
 
 ### Changelog
+- Added more info about package while installing 
+- Fixed open button keeps highlighting independent of openable app
+- Removed "install apps from Unknown sources" permission requirement (yeah now Miui users won't have to cope for Mi account login or 10 seconds wait)
+- Added a button to jump to app info page
 - Monet supported
 - Ability to update system apps
-- Aosp and Miui both are supported
+- Aosp/Miui/HyperOS/OxygenOS/ColorOS/Any other Oem supported
 - No more parsing error on usigned apps
 
 ### Note
-- Magisk delta and KSU may not be compatible.
+- Magisk delta may not be compatible.
+- Incase of module failure, you can extract apk from module and replace in your system accordingly.
 
 ### Credits: 
 - SparkOS for A13 source package
-- [ᴊᴇʟʟʏʙᴇᴀɴ](https://t.me/JELLYBEANx1) (Flat Earth guy) for banner 
