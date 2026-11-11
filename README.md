@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - New UI with animations and Monet (Material You) colours
 - Drag the top pill to expand a detailed view of the app being installed
 - Install `.apks` and `.apkm` bundles
@@ -22,11 +22,11 @@
 - No Unknown Sources permission or Mi account login needed
 - Android 17 supported
 
-## 📋 Requirements
+## Requirements
 - Android (AOSP, HyperOS, ColorOS and other OEM ROMs)
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Package-Installer/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
@@ -35,8 +35,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Package-Installer/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Package-Installer/issues)
 
 </div>
